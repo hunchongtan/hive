@@ -70,6 +70,8 @@ struct GroupTabsView: View {
                 .foregroundColor(.gray)
                 .font(.system(size: 30))
                 .padding(EdgeInsets(top: 0, leading: 30, bottom: 5, trailing: 0))
+            
+            
             VStack(alignment: .center) {
                 
                 group(image: "kpop", title: "Kpop", desc: "Join our exciting events and connect with like-minded people ", members: 8526, imageOpacity: true)

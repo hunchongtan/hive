@@ -22,7 +22,7 @@ struct InitiateView: View {
                 .padding()
                 .frame(width: 250)
                 
-                Image(systemName: "person.circle")
+                Image("HiveIcon")
                     .resizable()
                     .scaledToFit()
                     .frame(width: 40)

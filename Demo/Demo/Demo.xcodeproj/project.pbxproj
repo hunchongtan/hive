@@ -78,6 +78,7 @@
 				CEF0DA902AA929B30046EF8C /* GroupView.swift */,
 				CEF0DA822AA927340046EF8C /* GroupTabsView.swift */,
 				CEF0DA7E2AA926F70046EF8C /* ExternalFileFormat.swift */,
+				CEF0DA922AA929C60046EF8C /* fakeSearchIcon.swift */,
 				CEF0DA762AA925890046EF8C /* Assets.xcassets */,
 				CEF0DA6E2AA923510046EF8C /* Preview Content */,
 			);
@@ -90,7 +91,6 @@
 				CEF0DA6F2AA923510046EF8C /* Preview Assets.xcassets */,
 				CEF0DA802AA927270046EF8C /* Chatbox.swift */,
 				CEF0DA842AA927410046EF8C /* EventTabsView.swift */,
-				CEF0DA922AA929C60046EF8C /* fakeSearchIcon.swift */,
 				CEF0DA8A2AA927AB0046EF8C /* InitiateGroupsView.swift */,
 				CEF0DA8C2AA927B00046EF8C /* InitiateEventsView.swift */,
 			);
