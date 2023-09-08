@@ -26,10 +26,10 @@ To run Hive, the following minimum requirements apply:
 
 ### Deployment
 1. To access the source code, [fork](https://github.com/hunchongtan/hive/fork) or clone this repository to access the source code.
-2. To run the app, open Demo.xcodeproj.
+2. To run the app, open **Demo/Demo/Demo.xcodeproj**
 
 ## Authors
-Tan Hun Chong, Xavier Wong, Min Thet Khine, Edwin, Gabriel
+Tan Hun Chong, Xavier Wong, Min Thet Khine, Edwin Tan, Gabriel Kuek
 
 ## Acknowledgements
 This project is an undertaking of the SUTD-SP SwiftUI Nano Academy.
