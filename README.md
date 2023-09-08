@@ -2,9 +2,17 @@
 
 <img src="https://github.com/hunchongtan/hive/assets/87000020/d15290c9-3a2d-473b-abfc-70cbab64c28c">
 
+<h4 align="center">
+  <a href="https://www.icloud.com/keynote/0ab9_t9PasGBq1jrLS5skMdKg#Apple_Presentation">Presentation slides</a>
+  <span> · </span>
+  <a href="https:/github.com/hunchongtan/hive/issues">Report a bug</a>
+</h4>
+
 ---
 
-Hive is a community app that helps individuals in Singapore find & connect with like-minded people in interest groups. Users can initiate outings to events and form communities in the process.
+**Hive** is a community app that helps individuals in Singapore find & connect with like-minded people in interest groups.
+<br />
+Users can initiate outings to events and form communities in the process.
 | Home Tab | Initiate Tab | Groups Tab |
 |---------------|-------------|---------|
 | ![hive1](https://github.com/hunchongtan/hive/assets/87000020/52d97c83-0688-4042-b499-c556e46032f5) | ![hive3](https://github.com/hunchongtan/hive/assets/87000020/b6fc76a8-b3a3-49c0-a04d-68a5900659a1) | ![hive2](https://github.com/hunchongtan/hive/assets/87000020/2ccc33f0-cad4-4af9-a090-b456fb57974d) |
